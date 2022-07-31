@@ -3,6 +3,7 @@ if (
   window.location.hostname === "timesofindia.indiatimes.com" ||
   window.location.hostname === "www.facebook.com" ||
   window.location.hostname === "www.nytimes.com" ||
+  window.location.hostname === "bing.com" ||
   window.location.hostname === "www.thehindu.com"
 ) {
   document.body.innerHTML =
