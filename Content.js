@@ -8,5 +8,5 @@ if (
   window.location.hostname === "www.thehindu.com"
 ) {
   document.body.innerHTML =
-    "<div style='font-size:12vmin;width:100vw;height:100vh;display:flex;justify-content:center;align-items:center;color:dodgerblue'>Fully focused Mode</div>";
+    "<div style='font-size:12vmin;width:100vw;height:100vh;display:flex;justify-content:center;align-items:center;color:dodgerblue'>Mitzi, just focus on React for now! Love you - Darshan</div>";
 }
