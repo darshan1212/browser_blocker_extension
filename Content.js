@@ -4,6 +4,7 @@ if (
   window.location.hostname === "www.facebook.com" ||
   window.location.hostname === "www.nytimes.com" ||
   window.location.hostname === "bing.com" ||
+  window.location.hostname === "www.quora.com" ||
   window.location.hostname === "www.thehindu.com"
 ) {
   document.body.innerHTML =
